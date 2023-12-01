@@ -63,3 +63,9 @@ if __name__ == "__main__":
     predictions = p.predict(X_test)
 
     print("Perceptron classification accuracy", accuracy(y_test, predictions))
+
+y_test
+
+predictions
+
+
